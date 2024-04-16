@@ -3,11 +3,11 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&duration=3500&pause=500&color=31B3F7&background=FFFFFF00&width=435&lines=Ol%C3%A1+eu+sou+o+Guilherme!;Tenho+36+anos%2C;estou+me+especializando+;em+back-end+Java+;com+Spring-Boot." alt="Typing SVG" /></a>
 
     🔭 Estou à procura de uma oportunidade na área de desenvolvimento
-    🌱 Estou cursando Bacharelado em Ciência da Computação
+    🌱 Estou cursando JAVA com SPRING BOOT com oo professor Nélio Alves
     👨‍🎓 Sou formado em Análise e Desenvolvimento de Sistemas
     🎓 Tenho uma Pós-graduação especialização em Engenharia de Software
     😄 Pronouns: Ele / Dele
-    ⚡ Gosto de assistir Animes, fimes de diversos generos para me divertir e descontrair e ler livros.
+    ⚡ Gosto de assistir Animes, fimes de diversos generos para me divertir e descontrair, assim como ler livros.
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=Guilherme-Dev-Java&theme=blue-green&locale=pt_BR&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
 

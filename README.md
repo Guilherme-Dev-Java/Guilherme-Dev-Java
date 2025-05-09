@@ -1,5 +1,4 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=87CEFA&height=120&section=header"/>
-
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&duration=3500&pause=500&color=31B3F7&background=FFFFFF00&width=435&lines=Ol%C3%A1+Eu+sou+o+Guilherme!;Tenho+36+anos%2C;SOU UM DESENVOLVEDOR EM FORMAÇÃO." alt="Typing SVG" /></a>
 
     🔭 Estou à procura de uma oportunidade na área de desenvolvimento
